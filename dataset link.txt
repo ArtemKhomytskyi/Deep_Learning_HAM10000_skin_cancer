@@ -1,0 +1,2 @@
+We choose this dataset "Skin Cancer MNIST: HAM10000", link to the dataset: https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000/data
+If you want to run the code, you have to combine two folders with images into one folder and name it "HAM10000_images"
